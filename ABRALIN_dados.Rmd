@@ -1,5 +1,5 @@
 ---
-title: "Simpósio Gestão de Dados Linguísticos"
+title: "Simpósio: Gestão de Dados Linguísticos"
 subtitle: "ABRALIN ao Vivo"
 author: "Rodrigo Esteves de Lima-Lopes || rll307@unicamp.br"
 institute: "Universidade Estadual de Campinas/CNPq"
